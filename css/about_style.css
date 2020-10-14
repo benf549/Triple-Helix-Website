@@ -36,7 +36,7 @@ h1 {
 /**From here down is the styling for the content of the welcome section of the website**/
 
 .welcome {
-	margin-top: auto;
+	/* margin-top: auto; */
 	padding-left: 2%;
 	padding-right: 2%;
 	/* height: 100vh; */
