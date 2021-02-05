@@ -56,10 +56,12 @@ body {
 }
 
 .wrapper p {
-	margin-top: 5%;
 	font-family: "Gupter";
 	font-size: 0.9em;
 	text-transform: initial;
+}
+#first {
+	margin-top: 5%;
 }
 
 .wrapper img {
@@ -67,6 +69,19 @@ body {
 	margin: 0 auto;
 }
 
+#inline {
+	width: 800px;
+}
+
+.list {
+	font-size: 0.9em;
+	font-family: "Gupter";
+	text-transform: none;
+}
+
+.list li {
+	margin-left: 5em;
+}
 @media screen and (max-width: 600px) {
 	.wrapper {
 		padding-top: 5%;
